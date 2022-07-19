@@ -132,7 +132,8 @@ color:goldenrod;
 .work-row{
   padding:5%;
   padding-bottom:6%;
-  margin:3% 6%;
+  margin:3% 0%;
+  margin-left: 12%;
 }
 
 a{
